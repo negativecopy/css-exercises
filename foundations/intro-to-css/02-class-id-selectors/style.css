@@ -2,3 +2,17 @@
     background-color: rgb(236, 163, 175);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#blue-text-size-36 {
+    color: hsl(240, 84%, 56%);
+    font-size: 36px;
+}
+.pink-background-with-three-fonts, #font-size-24px {
+    font-size: 24px;
+}
+
+#light-green-background-bold-size-24px {
+    background-color: rgb(177, 255, 177);
+    font-size: 24px;
+    font-weight:700;
+}
